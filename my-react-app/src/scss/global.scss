@@ -1,4 +1,8 @@
+@import "./_custom-properties";
+@import "./_utilities";
+
 body {
-    background-color: darkseagreen;
+    background-color: rgb(255, 246, 246);
+    color: var(--color-blue-20);
 }
 
