@@ -5,8 +5,9 @@ function Styleguide() {
     <>
       <h1>Styleguide de Juliana</h1>
 
-      <section>
-        <h2>CORES</h2>
+      <h2>CORES</h2>
+
+      <section className="container">
         <div className="color-10 circle-shape"></div>
         <div className="color-20 circle-shape"></div>
         <div className="color-30 circle-shape"></div>
