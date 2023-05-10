@@ -1,19 +1,20 @@
-// Forma dos círculos
+@import "../../scss/utilities";
 
+// Forma dos círculos
 .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 300px;
 }
 
 .circle-shape {
-    display: flex;
-    justify-content: center;
-    align-self: center;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
-    margin: 5px;
-    flex-basis: calc(33.33% - 10px);
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  flex-basis: calc(33.33% - 10px);
 }

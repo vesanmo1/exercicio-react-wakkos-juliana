@@ -7,16 +7,16 @@ function Styleguide() {
 
       <h2>CORES</h2>
 
-      <section className="container">
-        <div className="color-10 circle-shape"></div>
-        <div className="color-20 circle-shape"></div>
-        <div className="color-30 circle-shape"></div>
-        <div className="color-40 circle-shape"></div>
-        <div className="color-50 circle-shape"></div>
-        <div className="color-60 circle-shape"></div>
-        <div className="color-70 circle-shape"></div>
-        <div className="color-80 circle-shape"></div>
-        <div className="color-90 circle-shape"></div>
+      <section class="container">
+        <div class="color-10 circle-shape"></div>
+        <div class="color-20 circle-shape"></div>
+        <div class="color-30 circle-shape"></div>
+        <div class="color-40 circle-shape"></div>
+        <div class="color-50 circle-shape"></div>
+        <div class="color-60 circle-shape"></div>
+        <div class="color-70 circle-shape"></div>
+        <div class="color-80 circle-shape"></div>
+        <div class="color-90 circle-shape"></div>
       </section>
     </>
   );

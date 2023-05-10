@@ -1,8 +1,7 @@
-@import "./_custom-properties.scss";
-@import "./_utilities.scss";
+@import "./custom-properties";
+@import "./utilities";
 
 body {
-    background-color: rgb(255, 246, 246);
-    color: var(--color-blue-20);
+  background-color: rgb(255, 246, 246);
+  color: var(--color-blue-20);
 }
-
